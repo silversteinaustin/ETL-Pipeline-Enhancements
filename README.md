@@ -1,1 +1,4 @@
 # Crowdfunding_ETL
+This project demonstrates a streamlined approach to data sanitation through the Extract, Transform, Load (ETL) process, enabling the efficient integration of data into a database. The repository is organized into two main directories: ETL_Files, which houses all necessary scripts and resources for executing the ETL process, and Resources, containing the raw CSV files utilized in the project.
+
+Leveraging Python, alongside Pandas library and Python dictionary methods, the raw data is meticulously extracted and transformed within a Jupyter Notebook environment. The project utilizes four CSV files as the foundation for constructing an Entity Relationship Diagram (ERD) and developing a comprehensive table schema. Subsequently, the processed data is seamlessly uploaded into a PostgreSQL database, showcasing a practical application of database management and data integration techniques.
